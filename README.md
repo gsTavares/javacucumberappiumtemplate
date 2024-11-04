@@ -349,7 +349,7 @@ public class LoginSteps {
 
 ## Links úteis
 
-https://appium.io/docs/en/latest/quickstart/uiauto2-driver/
-https://github.com/appium/java-client/blob/master/docs/Page-objects.md
-https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java
-https://github.com/appium/appium-inspector/releases
+- https://appium.io/docs/en/latest/quickstart/uiauto2-driver/
+- https://github.com/appium/java-client/blob/master/docs/Page-objects.md
+- https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java
+- https://github.com/appium/appium-inspector/releases
