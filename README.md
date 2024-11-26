@@ -303,7 +303,7 @@ public class LoginSteps {
     private InicioPage inicioPage;
     private AndroidDriver driver;
 
-    public LoginSteps() throws Exception {]
+    public LoginSteps() throws Exception {
 	    // Recebe a instância compartilhada do driver
         driver = AppiumDriverSingleton.getAndroidDriver();
         // Espera um tempo até a aplicação abrir totalmente no celular
