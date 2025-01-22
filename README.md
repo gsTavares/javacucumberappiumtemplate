@@ -56,7 +56,7 @@ appium driver doctor uiautomator2
 
 IMPORTANTE: Se estiver tudo certo com o seu ambiente, o log do segundo comando retornará como abaixo. Caso o contrário, etapas de configuração de ambiente adicionais serão necessárias.
 
-![[Pasted image 20241103184214.png]]
+![image](https://github.com/user-attachments/assets/927b2fc9-a9b5-44a9-b589-094028febae4)
 
 2.2. Configurações para sessão no appium e driver do Android
 
